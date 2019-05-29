@@ -1,5 +1,5 @@
 # Algorithm_Project
 
-Minimum Spanning Tree
-Stable Mathcing
+Minimum Spanning Tree,
+Stable Matching,
 Dynamic Programming
